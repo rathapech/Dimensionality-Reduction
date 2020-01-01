@@ -11,6 +11,3 @@ Comparison of different classifiers and dimensionality reduction methods.
 1. Principal component analysis (CA)
 2. Isomap
 3. Locally linear embedding
-4. Multidimensional scaling (MDS)
-5. t-distributed stochastic neighbor embedding (t-SNE)
-
